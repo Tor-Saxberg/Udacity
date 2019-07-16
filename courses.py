@@ -10,6 +10,10 @@ courses taken:
     Deep Learning Nanodegree
     Deep Reinforcement Learning Nanodegree
     Data Analyst Nanodegree
+        Introduction to Data Analysis
+            Investigate a Dataset
+        Data Wrangling
+            Wrangle and Analyze Data
     Data Scientist Nanodegree
         Supervised Learning
             Find Donors for CharityML with Kaggle
@@ -24,7 +28,7 @@ courses to: take
             Train a Quadcopter to Fly
         Project 6: Capstone Proposal
         Project 7: Capstone Project
-    
+
     Deep Learning Nanodegree
         Neural Networks
             Predicting Bike-Sharing Patterns
@@ -47,12 +51,8 @@ courses to: take
             Collaboration and Competition
 
     Data Analyst Nanodegree
-        Introduction to Data Analysis
-            Investigate a Dataset
         Practical Statistics
             Analyze Experiment Results
-        Data Wrangling
-            Wrangle and Analyze Data
         Data Visualization with Python
             Communicate Data Findings
 
@@ -69,5 +69,15 @@ courses to: take
             Design a Recommendation Engine with IBM
         Data Science Projects
             Project 7: Data Science Capstone Project
-                        
 
+    Data Engineer nanodegree
+        Data Modeling
+            Data Modeling with Postgres 
+            Data Modeling with Apache Cassandra
+         Cloud Data Warehouses
+            Data Infrastructure on the Cloud
+         Data Lakes with Spark
+             Big Data with Spark
+        Automate Data Pipelines
+            Data Pipelines with Airflow
+         Capstone Project
